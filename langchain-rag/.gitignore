@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+*.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Cached files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Data directories (optional)
+data/
