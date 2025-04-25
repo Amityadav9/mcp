@@ -23,7 +23,7 @@ A powerful local Retrieval Augmented Generation (RAG) system built with LangChai
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/langchain-mcp-rag.git
+   git clone https://github.com/Amityadav9/mcp.git
    cd langchain-mcp-rag
    ```
 
